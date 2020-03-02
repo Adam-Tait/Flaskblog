@@ -1,0 +1,8 @@
+How To Launch
+
+open ubuntu
+type source pythonflask/proj-venv/bin/activate
+type export FLASK_APP=flaskblog.py
+type export FLASK_DEBUG=1
+
+open localhost:5000
